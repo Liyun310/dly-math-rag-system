@@ -1,0 +1,2895 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "高2026届高一（下）期末考试"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                314,
+                40,
+                640,
+                61
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "数学试卷"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                413,
+                74,
+                539,
+                99
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注意事项："
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                142,
+                154,
+                156
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 答题前，考生务必将自己的姓名、准考证号、班级、学校在答题卡上填写清楚。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 每小题选出答案后,用2B铅笔把答题卡上对应题目的答案标号涂黑,如需改动,用橡皮擦干净后,再选涂其他答案标号。在试卷上作答无效。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.考试结束后，请将答题卡交回，试卷自行保存。满分150分，考试用时120分钟。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                161,
+                865,
+                233
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、单项选择题：本题共8小题，每小题5分，共40分。在每小题给出的四个选项中，只有一项是符合题目要求的。"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                70,
+                239,
+                880,
+                283
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 设  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\triangle ABC"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的内角  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A, B, C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所对的边分别为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a, b, c"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，若  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a = \\sqrt{3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "b = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A = \\frac{\\pi}{3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，则  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "B = (\\quad)"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                294,
+                769,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{\\pi}{3}"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                332,
+                124,
+                359
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{\\pi}{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                223,
+                333,
+                275,
+                359
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{\\pi}{6}"
+                    }
+                ]
+            },
+            "bbox": [
+                374,
+                333,
+                423,
+                359
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{\\pi}{4}"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                332,
+                566,
+                359
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 某校高一年级有四个班共有学生 200 人, 其中 1 班 60 人, 2 班 50 人, 3 班 50 人, 4 班 40 人. 该校要了解高一学生对食堂菜品的看法, 准备从高一年级学生中随机抽取 40 人进行访谈, 若采取按比例分配的分层抽样, 且按班级来分层, 则高一 2 班应抽取的人数是 ( )"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                368,
+                828,
+                442
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. 12 "
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                454,
+                151,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B. 10 "
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                454,
+                284,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. 8 "
+                    }
+                ]
+            },
+            "bbox": [
+                378,
+                454,
+                418,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. 20 "
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                454,
+                574,
+                466
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 已知平面四边形OABC用斜二测画法画出的直观图是边长为1的正方形  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "O^{\\prime}A^{\\prime}B^{\\prime}C^{\\prime}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 则原图形OABC中的  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm{AB} ="
+                    },
+                    {
+                        "type": "text",
+                        "content": " （）"
+                    }
+                ]
+            },
+            "bbox": [
+                70,
+                480,
+                719,
+                524
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/937c3bbc26efc5e09ba44f819be494ea3f60ff36242b9a49545a3b0810b105e0.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                737,
+                435,
+                878,
+                538
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sqrt{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                536,
+                136,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 \\sqrt{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                236,
+                536,
+                300,
+                553
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. 3 "
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                538,
+                421,
+                549
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. 2 "
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                538,
+                569,
+                549
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 已知  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "m"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是两条不重合的直线， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是两个不重合的平面，则下列结论正确的是（）"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                562,
+                808,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. 若  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha / / \\beta , m / / \\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，则  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "m / / \\alpha"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                593,
+                315,
+                609
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B. 若  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "m \\perp \\alpha, n \\perp \\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 则  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "m // n"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                593,
+                628,
+                608
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. 若  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "m // \\alpha, m // \\beta"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 则  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha // \\beta"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                621,
+                314,
+                637
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. 若  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "m \\perp n, m \\subset \\alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 则  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "n \\perp \\alpha"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                622,
+                638,
+                636
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. 甲、乙、丙3人独立参加一项挑战，已知甲、乙、丙能完成挑战的概率分别为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1}{3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 、  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1}{3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 、  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1}{4}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 则甲、乙、丙中有人完成挑战的概率为（）"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                644,
+                800,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1}{5}"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                713,
+                126,
+                744
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1}{3}"
+                    }
+                ]
+            },
+            "bbox": [
+                253,
+                714,
+                299,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{2}{5}"
+                    }
+                ]
+            },
+            "bbox": [
+                430,
+                713,
+                475,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{2}{3}"
+                    }
+                ]
+            },
+            "bbox": [
+                606,
+                713,
+                653,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. 平行六面体  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "ABCD - A_1B_1C_1D_1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 中，底面ABCD为正方形，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\angle A_{1}AD = \\angle A_{1}AB = \\frac{\\pi}{3}"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "AA_{1} = AB = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C_1D_1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的中点，则异面直线  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "BE"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 和  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "DC"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所成角的余弦值为（）"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                750,
+                712,
+                811
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. 0 "
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                823,
+                124,
+                847
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{\\sqrt{3}}{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                262,
+                823,
+                319,
+                856
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1}{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                428,
+                826,
+                473,
+                853
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{\\sqrt{3}}{4}"
+                    }
+                ]
+            },
+            "bbox": [
+                606,
+                820,
+                662,
+                853
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3c25d54db31df9753d263f2cc2f59f2357cb6fbaa2f1e9ca106d1164dc8d7cc5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                741,
+                706,
+                900,
+                809
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                487,
+                897,
+                497,
+                908
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "日"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                952,
+                794,
+                986
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "扫描全能王 创建"
+                    }
+                ]
+            },
+            "bbox": [
+                801,
+                961,
+                966,
+                979
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. 甲在  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 处收到乙在航行中发出的求救信号后，立即测出乙在方位角（是从某点的正北方向线起，"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                36,
+                863,
+                54
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "依顺时针方向到目标方向线之间的水平夹角）为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "45^{\\circ}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 、距离  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 处为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10\\mathrm{~nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 距离的  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 处，并测得乙正沿方位角为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "105^{\\circ}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的方向，以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "6\\mathrm{~nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 距离/h的速度航行，甲立即以  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "14\\mathrm{~nm}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 距离/h的速度前去营救，甲最少需要（）小时才能靠近乙."
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                64,
+                742,
+                137
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8c1dbf34b911b1d5190671cef39ae158b1787d4dc52d7e8438d2e25c8d8be71b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                774,
+                68,
+                934,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. 1 "
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                148,
+                142,
+                163
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B. 2 "
+                    }
+                ]
+            },
+            "bbox": [
+                236,
+                148,
+                278,
+                163
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C. 1.5 "
+                    }
+                ]
+            },
+            "bbox": [
+                373,
+                148,
+                428,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D. 1.2 "
+                    }
+                ]
+            },
+            "bbox": [
+                554,
+                149,
+                610,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. 已知向量  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overrightarrow{OA}, \\overrightarrow{OB}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 满足  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left|\\overrightarrow{OA}\\right| = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left|\\overrightarrow{OB}\\right| = 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，且向量  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overrightarrow{OB}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 在  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overrightarrow{OA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 方向上的投影向量为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overrightarrow{OA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "。若动点 C 满足  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\left|\\overrightarrow{OC}\\right| = \\frac{1}{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，则  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overrightarrow{CA} \\cdot \\overrightarrow{CB}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的最小值为（）"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                178,
+                894,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "-\\frac{1}{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                247,
+                164,
+                281
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{4 - 2\\sqrt{6}}{3}"
+                    }
+                ]
+            },
+            "bbox": [
+                265,
+                245,
+                364,
+                281
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1 - \\sqrt{7}}{2}"
+                    }
+                ]
+            },
+            "bbox": [
+                460,
+                245,
+                544,
+                281
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{5 - 2\\sqrt{7}}{4}"
+                    }
+                ]
+            },
+            "bbox": [
+                638,
+                245,
+                734,
+                280
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、多项选择题：本题共3小题，每小题6分，共18分.在每小题给出的选项中，有多项符合题目要求.全部选对的得6分，部分选对的得部分分，有选错的得0分."
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                94,
+                283,
+                919,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9. 设复数  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的共轭复数为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overline{z}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "i"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为虚数单位, 若  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(z + 2)i = 1 + i"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", 则 ( )"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                324,
+                668,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A. 复数  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的虚部为-1"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                356,
+                277,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "|z| = 2"
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                356,
+                564,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\bar{z}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 在复平面内对应的点在第一象限"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                397,
+                400,
+                415
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "z^{8} = 16"
+                    }
+                ]
+            },
+            "bbox": [
+                484,
+                397,
+                571,
+                413
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10. 一个袋子中有大小相同，标号分别为1，2，3，4的4个小球。采用不放回方式从中任意摸球两次，一次摸一个小球。设事件A=“第一次摸出球的标号小于3”，事件B=“第二次摸出球的标号小于3”，事件C=“两次摸出球的标号都是偶数”，则（）"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                428,
+                889,
+                502
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P(A) = P(B)"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                510,
+                228,
+                535
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P(AB) = \\frac{1}{6}"
+                    }
+                ]
+            },
+            "bbox": [
+                289,
+                510,
+                406,
+                542
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "C.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P(A \\cup B) = \\frac{2}{3}"
+                    }
+                ]
+            },
+            "bbox": [
+                475,
+                510,
+                610,
+                541
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D.  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P(AC) = \\frac{1}{12}"
+                    }
+                ]
+            },
+            "bbox": [
+                678,
+                510,
+                806,
+                541
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "11. 如图，在棱长为2的正方体  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "ABCD - A_1B_1C_1D_1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 中，点  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "M"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 分别为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "CC_1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 上的动点，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "O"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为正方体内一点，"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                555,
+                890,
+                572
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "则以下命题正确的是（）"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                587,
+                319,
+                605
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "A.  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "B_{1} M + D M"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 取得最小值  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "2 \\sqrt{5}"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "B. 当  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "M"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 为中点时, 平面  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "B M D_{1}"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 截正方体所得的截面为平行四边形"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "C. 四面体  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "ABMD"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 的外接球的表面积为  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "5 \\pi"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 时,  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "CM = 1"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "D. 若  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "AO = CO"
+                            },
+                            {
+                                "type": "text",
+                                "content": ",  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "A_{1}O = 2"
+                            },
+                            {
+                                "type": "text",
+                                "content": ", 则点  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "O"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 的轨迹长为  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\sqrt{2}\\pi"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                621,
+                618,
+                742
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ebfd2ffa6c8643a5ec8e7ff4386338534fec36802f48b4083152fd5fab7e61b5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                727,
+                581,
+                895,
+                691
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、填空题：本题共3小题，每小题5分，共15分."
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                95,
+                758,
+                514,
+                775
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12. 已知向量  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\vec{a} = (1,1)"
+                            },
+                            {
+                                "type": "text",
+                                "content": "， "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\vec{b} = (m, -2)"
+                            },
+                            {
+                                "type": "text",
+                                "content": "，若  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\vec{a} / / (\\vec{a} + \\vec{b})"
+                            },
+                            {
+                                "type": "text",
+                                "content": "，则  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "m ="
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13. 若圆锥的轴截面是边长为 2 的等边三角形, 则圆锥的侧面积为"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14. 记  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\triangle ABC"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 的内角  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "A, B, C"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 所对的边分别为  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "a, b, c"
+                            },
+                            {
+                                "type": "text",
+                                "content": "，已知  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "a \\sin A + c \\sin C = a \\cos C + c \\cos A"
+                            },
+                            {
+                                "type": "text",
+                                "content": "，若  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\triangle ABC"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 的面积  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "S = t b^{2} (t > 0)"
+                            },
+                            {
+                                "type": "text",
+                                "content": "，则  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "t"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 的最大值为 ______."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                790,
+                826,
+                903
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                906,
+                522,
+                916
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "日"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                952,
+                794,
+                986
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "扫描全能王创建"
+                    }
+                ]
+            },
+            "bbox": [
+                800,
+                961,
+                964,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "四、解答题: 本题共 5 小题, 共 77 分. 解答应写出文字说明, 证明过程或演算步骤."
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                73,
+                28,
+                749,
+                45
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "15.（本小题满分13分）为调查外地游客对洪崖洞景区的满意程度，某调查部门随机抽取了100位游客，现统计参与调查的游客年龄层次，将这100人按年龄（岁）（年龄最大不超过65岁，最小不低于15岁的整数）分为5组，依次为[15,25),[25,35),[35,45),[45,55),[55,65]，并得到频率分布直方图如下："
+                    }
+                ]
+            },
+            "bbox": [
+                73,
+                52,
+                912,
+                134
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/937eb8b62ef25b3eeb591a1f1730c507ea7f970c3057ae1ee3d61ea9cedb0c4f.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                357,
+                142,
+                647,
+                279
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（1）求实数  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "a"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 的值；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（2）估计这100人年龄的样本平均数（同一组数据用该区间的中点值作代表）；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（3）估计这100人年龄的第80百分位数。（结果保留一位有效数字，四舍五入）"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                285,
+                721,
+                358
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "16.（本小题满分15分）如图，在直四棱柱  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "ABCD - A_1B_1C_1D_1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 中，四边形  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "ABCD"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是一个菱形， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\angle DAB = 60^\\circ"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                460,
+                904,
+                477
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "点  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "BC_{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 上的动点."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                501,
+                258,
+                517
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（1）证明：  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "DP / /"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 平面  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "AB_{1}D_{1}"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（2）试确定点  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "P"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 的位置，使得  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "BC \\perp DP"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                539,
+                421,
+                583
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/27c0e1a8aee3c08c9d4a99a9f95996b0cb7d6244a80d6424bed9ee098a85ffe5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                643,
+                494,
+                852,
+                636
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "17.（本小题满分15分）在  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\triangle ABC"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 中，角A，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "B"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所对的边分别为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "b"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "c"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "a = 2"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sqrt{3}\\left(\\frac{\\cos A}{\\sin A} +\\frac{\\cos B}{\\sin B}\\right) = \\frac{2c}{b}"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                710,
+                902,
+                745
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（1）求A的大小；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（2）已知  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\overrightarrow{AD} = \\frac{\\overrightarrow{AB}}{3} + \\frac{2\\overrightarrow{AC}}{3}"
+                            },
+                            {
+                                "type": "text",
+                                "content": "，若  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\mathbf{A}"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 为钝角，求  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\triangle ABD"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 面积的取值范围."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                756,
+                640,
+                807
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                901,
+                517,
+                910
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "日"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                952,
+                794,
+                986
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "扫描全能王创建"
+                    }
+                ]
+            },
+            "bbox": [
+                801,
+                961,
+                964,
+                978
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "18.（本小题满分17分）已知三棱台  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "ABC - A_{1}B_{1}C_{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 中，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta ABC"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为正三角形，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "A_{1}B_{1} = AA_{1} = BB_{1} = \\frac{1}{2} AB = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 点  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "E"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为线段  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "AB"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的中点."
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                30,
+                927,
+                87
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（1）证明：  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "A_{1}E / / \\text{平面} B_{1}BCC_{1}"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（2）延长  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "AA_{1},BB_{1},CC_{1}"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 交于点  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "P"
+                            },
+                            {
+                                "type": "text",
+                                "content": " ，求三棱锥  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "P - ABC"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 的体积最大值；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（3）若二面角  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "A - CC_{1} - B"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 的余弦值为  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\frac{1}{3}"
+                            },
+                            {
+                                "type": "text",
+                                "content": " ，求直线  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "BB_{1}"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 与平面  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "A C C_{1}A_{1}"
+                            },
+                            {
+                                "type": "text",
+                                "content": " 所成线面角的余弦值."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                100,
+                823,
+                201
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/847469180150666cb0dfe4f7313a6bc10d4d88f552d91c679521627353783763.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                744,
+                72,
+                963,
+                194
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "19.（本小题满分17分）球面三角学是研究球面三角形的边、角关系的一门学科．如图，球O的半径为R．A、B、C为球面上三点，劣弧BC的弧长记为a，设  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "O_{a}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 表示以O为圆心，且过B、C的圆，同理，圆  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "O_{b},O_{c}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的劣弧AC、AB的弧长分别记为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "b"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "c"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，曲面ABC（阴影部分）叫做球面三角形."
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                323,
+                887,
+                413
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "若设二面角  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "C - OA - B, A - OB - C, B - OC - A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 分别为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\alpha, \\beta, \\gamma"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，则球面三角形的面积为"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                426,
+                773,
+                442
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "S _ {\\text {球 面} \\Delta A B C} = (\\alpha + \\beta + \\gamma - \\pi) R ^ {2}.",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/bf49ae4717986ca4fe716694044818a9b55d7422d3a79ea0089afaf0ebe358e4.jpg"
+                }
+            },
+            "bbox": [
+                117,
+                458,
+                329,
+                476
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（1）若平面OAB、平面OAC、平面OBC两两垂直，求球面三角形ABC的面积；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "（2）若平面三角形ABC为直角三角形，  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "AC\\bot BC"
+                            },
+                            {
+                                "type": "text",
+                                "content": " ，设  "
+                            },
+                            {
+                                "type": "equation_inline",
+                                "content": "\\angle AOC = \\theta_{1},\\angle BOC = \\theta_{2},\\angle AOB = \\theta_{3}."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                492,
+                826,
+                541
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "则：①求证：  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\cos \\theta_{1} + \\cos \\theta_{2} - \\cos \\theta_{3} = 1"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                562,
+                416,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "② 延长 AO 与球 O 交于点 D，若直线 DA，DC 与平面 ABC 所成的角分别为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{\\pi}{4}, \\frac{\\pi}{3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overrightarrow{BE} = \\lambda \\overrightarrow{BD}, \\lambda \\in (0,1]"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，S 为 AC 中点，T 为 BC 中点，设平面 OBC 与平面 EST 的夹角为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，求  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sin \\theta"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 的最小值，及此时平面 AEC 截球 O 的面积."
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                597,
+                915,
+                678
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/752b91c4f665c36f7e9a639892f31323ecdeaeb191796c9ef453f2a2b36ee60b.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                294,
+                693,
+                470,
+                831
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6dc0acd2a4c84340dedd12dd554af42a96940346bed387a5d1e152a5ff63cb8c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                563,
+                691,
+                769,
+                842
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                519,
+                901,
+                531,
+                910
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "日"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                952,
+                794,
+                986
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "扫描全能王创建"
+                    }
+                ]
+            },
+            "bbox": [
+                800,
+                961,
+                964,
+                978
+            ]
+        }
+    ]
+]

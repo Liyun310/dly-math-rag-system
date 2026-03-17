@@ -1,0 +1,248 @@
+# 高2026 届高一（下）期末考试
+
+# 数学参考答案
+
+# 一、单选题
+
+<table><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>C</td><td>B</td><td>C</td><td>B</td><td>D</td><td>A</td><td>A</td><td>D</td></tr></table>
+
+1【答案】C
+
+【解析】由正弦定理得： ${ \frac { \sqrt { 3 } } { \sin A } } = { \frac { 1 } { \sin B } }$ 则 $\sin B = { \frac { \sin A } { \sqrt { 3 } } } = { \frac { 1 } { 2 } }$  ， 由 $b < a$ 得 $B < A$ ，所以 $B = \frac { \pi } { 6 }$ =6’ 故 选 C.
+
+2【答案】B
+
+【详解】依题意高一 2班应抽取的人数为 $4 0 \times \frac { 5 0 } { 2 0 0 } = 1 0$ 人，故选：B.
+
+3【答案】C
+
+【解析】根据斜二测画法规则， $O A = O ^ { \prime } A ^ { \prime } = 1$ ， $O B = 2 O ^ { \prime } B ^ { \prime } = 2 \sqrt { 2 }$ ，且 $O A \bot O B$ ，则 $A B = \sqrt { O A ^ { 2 } + O B ^ { 2 } } = 3$ ，故选 C.
+
+![](images/5932365c9da7a0ba8059282c8730106b62a3d798f5bbf715e0c9603e17e9171e.jpg)
+
+4【答案】B
+
+【解析】A 中 $m$ 可能在 $\alpha$ 内，错误；B 中由线面垂直的性质显然正确；C 中 $\alpha$ 与 $\beta$ 可能相交，错误；D 中 $n$ 可能在 $\alpha$ 内，可能平行于 $\alpha$ ，可能与 $\alpha$ 斜交，错误，故选 B.
+
+5【答案】D
+
+【解析】由题意，甲、乙、丙三人都没完成挑战的概率 $P = ( 1 - \frac { 1 } { 3 } ) \times ( 1 - \frac { 1 } { 3 } ) \times ( 1 - \frac { 1 } { 4 } ) = \frac { 1 } { 3 }$ ， 再由对立事件关系，则甲、乙、丙中有人完成挑战的概率 $P = 1 - { \frac { 1 } { 3 } } = { \frac { 2 } { 3 } }$ 故选 D.=3，
+
+6【答案】A
+
+【解析】由题意， $\overrightarrow { A A _ { 1 } } \cdot \overrightarrow { A B } = \overrightarrow { A A _ { 1 } } \cdot \overrightarrow { A D } = 1 \times 1 \times \cos \frac { \pi } { 3 } = \frac { 1 } { 2 } , \overrightarrow { A B } \cdot \overrightarrow { A D } = 0 ,$
+
+又 ${ \overrightarrow { D C } } = { \overrightarrow { A B } }$ ， ${ \overrightarrow { B E } } = { \overrightarrow { A E } } - { \overrightarrow { A B } } = { \overrightarrow { A A _ { 1 } } } + { \overrightarrow { A _ { 1 } D _ { 1 } } } + { \overrightarrow { D _ { 1 } E } } - { \overrightarrow { A B } } = { \overrightarrow { A A _ { 1 } } } + { \overrightarrow { A D } } - { \frac { 1 } { 2 } } { \overrightarrow { A B } } ,$
+
+所以 $\overrightarrow { B E } \cdot \overrightarrow { D C } = ( \overrightarrow { A A _ { 1 } } + \overrightarrow { A D } - \frac { 1 } { 2 } \overrightarrow { A B } ) \cdot \overrightarrow { A B } = \frac { 1 } { 2 } + 0 - \frac { 1 } { 2 } = 0$ ，即有 $\overrightarrow { B E } \bot \overrightarrow { D C }$ ，故选 A.
+
+7．【答案】A
+
+【解析】设甲乙相遇在点 B 处，需要的时间为 $t$ 小时，则 $B C = 6 t$ ， $A B = 1 4 t$ ，又 $\angle A C B = 4 5 ^ { \circ } + 7 5 ^ { \circ } = 1 2 0 ^ { \circ }$ $A C = 1 0$ ，在 $\Delta A B C$ 中，由余弦定理得： $( 1 4 t ) ^ { 2 } = 1 0 ^ { 2 } + ( 6 t ) ^ { 2 } - 2 0 \times ( 6 t ) \cdot \cos 1 2 0 ^ { \circ }$ ，则 $8 t ^ { 2 } - 3 t - 5 = 0$ ，
+
+即 $( 8 t + 5 ) ( t - 1 ) = 0$ ，解得 $t = 1$ 或 $t = - { \frac { 5 } { 8 } }$ （舍去），，故选 A.
+
+8【答案】D
+
+【解析】如图，根据投影向量， $O A \bot A B$ ，则 $\angle A O B = 6 0 ^ { \circ }$ ，且 $A B = \sqrt { 3 }$ ，，因为 $\vert { \vec { c } } \vert = \ ^ { 1 }$ 所以点 $C$ 在以 $O$ 为圆心，半径 $r = \frac 1 2$ 的圆上运动．设 $M$ 是 $A B$ 的中点，由极化恒等式
+
+$\overrightarrow { C B } \cdot \overrightarrow { C A } = \overrightarrow { C M } ^ { 2 } - \frac { 1 } { 4 } \overrightarrow { A B } ^ { 2 } = \vert \overrightarrow { C M } \vert ^ { 2 } - \frac { 3 } { 4 }$ ，因 为 $\mid \overrightarrow { C M } \mid _ { \mathrm { m i n } } = \mid O M \mid - r = \frac { \sqrt { 7 } - 1 } { 2 } ,$
+
+则 $\mid \overrightarrow { C M } \mid ^ { 2 } - \frac { 3 } { 4 } = \frac { 8 - 2 \sqrt { 7 } } { 4 } - \frac { 3 } { 4 } = \frac { 5 - 2 \sqrt { 7 } } { 4 }$ ，即 $\overrightarrow { C B } \cdot \overrightarrow { C A }$ 的最小值为 $\frac { 5 - 2 { \sqrt { 7 } } } { 4 }$ ，故 选 D .
+
+![](images/f802182af4d32ea3035b8076489a1db2290498121356486e1b5f10b7f4c736cb.jpg)
+
+# 二、多选题
+
+<table><tr><td>9</td><td>10</td><td>11</td></tr><tr><td>AD</td><td>ABD</td><td>ABD</td></tr></table>
+
+9【答案】AD
+
+【解析】由题意， $z = \frac { 1 + i } { i } - 2 = - 1 - i$ ，则虚部为1， $\left| z \right| = { \sqrt { ( - 1 ) ^ { 2 } + ( - 1 ) ^ { 2 } } } = { \sqrt { 2 } }$ ，则 A 正确，B 错误；${ \overline { { z } } } = - 1 + i$ 在复平面内对应的点(1,1)在第二象限，C 错误；
+
+2 2z  (1 i)  2i ， $z ^ { 4 } = ( z ^ { 2 } ) ^ { 2 } = ( 2 i ) ^ { 2 } = - 4$ ， $z ^ { 8 } = ( z ^ { 4 } ) ^ { 2 } = ( - 4 ) ^ { 2 } = 1 6$ ，D 正确，故答案为 AD.
+
+10【答案】ABD
+
+【解析】由题意，摸球两次的样本空间
+
+$$
+\Omega = \{(1, 2), (1, 3), (1, 4), (2, 1), (2, 3), (2, 4), (3, 1), (3, 2), (3, 4), (4, 1), (4, 2), (4, 3) \},
+$$
+
+事件 $\begin{array} { r } { A = \{ ( 1 , 2 ) , ( 1 , 3 ) , ( 1 , 4 ) , ( 2 , 1 ) , ( 2 , 3 ) , ( 2 , 4 ) \} ~ , ~ B = \{ ( 1 , 2 ) , ( 2 , 1 ) , ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 1 ) , ( 4 , 2 ) \} ~ , } \end{array}$
+
+事件 $C = \{ ( 2 , 4 ) , ( 4 , 2 ) \}$ ，所以 $A B = \{ ( 1 , 2 ) , ( 2 , 1 ) \}$ ， $A C = \{ ( 2 , 4 ) \}$ ，
+
+$\begin{array} { r } { A \bigcup B = \{ ( 1 , 2 ) , ( 1 , 3 ) , ( 1 , 4 ) , ( 2 , 1 ) , ( 2 , 3 ) , ( 2 , 4 ) , ( 3 , 1 ) , ( 3 , 2 ) , ( 4 , 1 ) , ( 4 , 2 ) \} , } \end{array}$ ，利用古典概型计算公式，
+
+$$
+P (A) = P (B) = \frac {6}{1 2} = \frac {1}{2}, \quad P (A B) = \frac {2}{1 2} = \frac {1}{6}, \quad P (A \cup B) = \frac {1 0}{1 2} = \frac {5}{6}, \quad P (A C) = \frac {1}{1 2},
+$$
+
+故答案为：ABD.
+
+11【答案】ABD
+
+【解析】选项 A 中，将平面 $B B _ { 1 } C _ { 1 } C$ 沿 $C _ { 1 } C$ 翻折到与平面 $D D _ { 1 } C _ { 1 } C$ 为同一平面，当 $D , M , B _ { 1 }$ 三点共线时，则 $B _ { 1 } M + D M \geq B _ { 1 } D = \sqrt { 4 ^ { 2 } + 2 ^ { 2 } } = 2 \sqrt { 5 }$ ，正确；
+
+选项 B 中，设 $N$ 是 $A _ { 1 } A$ 的中点，连接 $D _ { 1 } N , N B$ ，易证 $D _ { 1 } M _ {  } / \langle N B$ ，所以平面 $B M D _ { 1 } =$ 平面 $B M D _ { 1 } N$ ，此截面是平行四边形，正确；
+
+选项 C 中，当 $C M = 1$ 时，因为 $C M , A D , A B$ 两两垂直，所以四面体ABMD的外接球的直径$2 R = \sqrt { C M ^ { 2 } + C D ^ { 2 } + C B ^ { 2 } } = 3$ ，则 $R = \frac { 3 } { 2 }$ 此时外接球表面积 $4 \pi R ^ { 2 } = 9 \pi$ ，错误；
+
+选项 $\mathrm { D }$ 中，由 $A O = C O$ ，所以点 $O$ 在 $A C$ 的中垂面 $D _ { 1 } D B B _ { 1 }$ 上，设 $B _ { 1 } D _ { 1 }$ 的中点为 $H$ ，则 $A _ { 1 } H = \sqrt { 2 }$ ，易证 $A _ { 1 } H$ 平面 $D _ { 1 } D B B _ { 1 }$ ，则 $H O = \sqrt { A _ { 1 } O ^ { 2 } - A _ { 1 } H ^ { 2 } } = \sqrt { 2 }$ ，所以点 $O$ 在以 $H$ 为球心， $r = { \sqrt { 2 } }$ 的半圆上运动，点 $O$ 的轨迹长为 $\sqrt { 2 } \pi$ ， $\mathrm { D }$ 正确.故答案为：ABD.
+
+# 三、填空题
+
+<table><tr><td>12</td><td>13</td><td>14</td></tr><tr><td>-2</td><td>2π</td><td>1/4</td></tr></table>
+
+12【答案】2
+
+【解析】由题意， $\vec { a } / / \vec { b }$ ，则 $1 \times m = 1 \times ( - 2 )$ ，所以 $m = - 2$ ，故答案为 $^ { - 2 }$ .
+
+13【答案】 $2 \pi$
+
+【解析】由题意，底面圆的半径 $r = 1$ ，母线 $l = 2$ ，于是 $S _ { \{ \ast \} } = \pi r l = 2 \pi$ ，故答案为 $2 \pi$ .
+
+14【答案】 $\frac { 1 } { 4 }$
+
+【解析】由正弦定理， $a \mathrm { s i n } { \cal A } + c \mathrm { s i n } { \cal C } = a \mathrm { c o s } { \cal C } + c \mathrm { c o s } { \cal A }$ 可化为 $\sin ^ { 2 } A + \sin ^ { 2 } C = \sin ( A + C ) = \sin B$ ，
+
+由 $S = t b ^ { 2 } \ ( \ t > 0 )$ ）得： $t = { \frac { S } { b ^ { 2 } } } = { \frac { \displaystyle { \frac { 1 } { 2 } } a b \sin C } { b ^ { 2 } } } = { \frac { \sin A \sin C } { 2 \sin B } } \leq { \frac { \sin ^ { 2 } A + \sin ^ { 2 } C } { 4 \sin B } } = { \frac { 1 } { 4 } }$ ，当且仅当 $\mathrm { s i n } A = \mathrm { s i n } C$ ，
+
+即 $A = C = 4 5 ^ { \circ }$ ， $B = 9 0 ^ { \circ }$ 时等号成立，故答案为 $\frac 1 4$
+
+# 四、解答题
+
+15．【答案】（1） $a = 0 . 0 3 5$ ； （2） 41.5 （3） x  51.7
+
+【解析】（1）由题知， $1 0 \times ( 0 . 0 1 + 0 . 0 1 5 + a + 0 . 0 3 + 0 . 0 1 ) = 1$ ，则 $a = 0 . 0 3 5$ ；....4 分
+
+（2）由图样本平均数 ${ \overline { { x } } } = 2 0 \times 0 . 1 + 3 0 \times 0 . 1 5 + 4 0 \times 0 . 3 5 + 5 0 \times 0 . 3 + 6 0 \times 0 . 1 = 4 1 . 5$ ；......9 分  
+（3）由题知，年龄在15,55的频率为 0.9，年龄在15,45 的频率为 0.6，则年龄的第 80 百分位在45,55之内，设第 80 百分位数为 $\mathbf { X }$ ，则 $0 . 6 + ( x - 4 5 ) \times 0 . 0 3 = 0 . 8$ ，解得 $x \approx 5 1 . 7$ ......13 分
+
+16【答案】（1）略； （2）略
+
+【解析】（1）证明：由题知，由 $B B _ { 1 } / / D D _ { 1 } , B B _ { 1 } = D D _ { 1 }$ ，则四边形 $B B _ { 1 } D _ { 1 } D$ 为平行四边形
+
+所以 $B D / / B _ { 1 } D _ { 1 }$ ，所以BD/ /面 $\mathbf { A } B _ { 1 } D _ { 1 }$ ，同理可证 $B C _ { 1 } / / A D _ { 1 }$ ，所以 $B C _ { 1 }$ / /面 $\mathbf { A } B _ { 1 } D _ { 1 }$
+
+由 $B D \subset$ 1面BDC , $B C _ { 1 } \subset$ 面 $B D C _ { 1 }$ ，所以 1面BDC / /面 $\mathbf { A } B _ { 1 } D _ { 1 }$ ，
+
+又 $P D \subset$ 面 $B D C _ { 1 }$ ，所以 $D P / /$ 面 $\mathbf { A } B _ { 1 } D _ { 1 }$ ；......7 分
+
+（2）取 BC 中点 E，连接 DE，PE．在BDC 中， $B C = D C , \angle B C D = \frac { \pi } { 3 }$ 则 $\Delta B D C$ 为
+
+![](images/f6b8ef2d6eb6463c0ac614a4e2983b163ce77b907372152c0c100b1b510b17df.jpg)
+
+![](images/91d1e288cd8aba92e7e0a45d97877345b23421d5f3678296c0117a2f7ab7924e.jpg)
+
+正三角形，
+
+所以 $D E \bot B C$ ，又 $B C \bot D P$ ，所以 $B C \perp$ 面 $E D P$ ，所以 $B C \perp E P$
+
+在面 $B C C _ { 1 }$ 中， $B C \bot C C _ { 1 }$ ， $E P \subset$ 平面 $B C C _ { 1 }$ ，所以 $E P / / C C _ { 1 }$ ，
+
+在 $\Delta B C C _ { 1 }$ 中，E 为 BC 中点，所以 EP 为中位线，则点 $\mathrm { P }$ 为 $B C _ { 1 }$ 中点．......15 分
+
+17【答案】（1） $\frac { \pi } { 3 }$ 或 $\frac { 2 \pi } { 3 }$ ； （2） $\left| 0 , { \frac { 2 { \sqrt { 3 } } } { 9 } } \right|$
+
+【解析】由正弦定理， 3 $\sqrt { 3 } \left( \frac { \mathrm { c o s } A } { \mathrm { s i n } A } + \frac { \mathrm { c o s } B } { \mathrm { s i n } B } \right) = \frac { 2 c } { b }$ c  可化为 sin cos cos sin 2sin3 B A B A C  ， ${ \sqrt { 3 } } \cdot { \frac { \sin B \cos A + \cos B \sin A } { \sin A \sin B } } = { \frac { 2 \sin C } { \sin B } } ,$
+
+则有 sin( ) 2sin3 B A C  ， ${ \sqrt { 3 } } \cdot { \frac { \sin ( B + A ) } { \sin A \sin B } } = { \frac { 2 \sin C } { \sin B } }$ 因为在 $\triangle A B C$ 中， $\sin ( B + A ) = \sin C > 0$ ， $\sin B > 0$ ，
+
+所以化简得： $\sin A = { \frac { \sqrt { 3 } } { 2 } }$ 又 $0 < A < \pi$ ，解得： $A = \frac { \pi } { 3 }$ 或 $\frac { 2 \pi } { 3 }$ ..7分
+
+（2）由 2AB ACAD   $\overrightarrow { A D } = \frac { \overrightarrow { A B } } { 3 } + \frac { 2 \overrightarrow { A C } } { 3 }$ 得： ${ 3 } \overrightarrow { A D } = \overrightarrow { A B } + 2 \overrightarrow { A C } = \overrightarrow { A D } + \overrightarrow { D B } + 2 ( \overrightarrow { A D } + \overrightarrow { D C } )$ ，则 $\overrightarrow { B D } = 2 \overrightarrow { D C }$ ，
+
+从而 ABDS $S _ { \_ { A B D } } = { \frac { 2 } { 3 } } S _ { \_ { A B C } } = { \frac { 2 } { 3 } } \times { \frac { 1 } { 2 } } b c \sin { A } = { \frac { \sqrt { 3 } } { 6 } } b c$ ，因为A为钝角，所以由（1）知， $A = \frac { 2 \pi } { 3 }$ ， 且 $a = 2$ ，
+
+有余弦定理 $a ^ { 2 } = b ^ { 2 } + c ^ { 2 } - 2 b c \cos A$ $A$ 可得： $b ^ { 2 } + c ^ { 2 } + b c = 4$ ，因为 $4 \geq 2 b c + b c$ ，所以 $b c \leq \frac { 4 } { 3 }$ ，
+
+当且仅当 $b { = } c { = } { \frac { 2 { \sqrt { 3 } } } { 3 } }$ 时等号成立，又 $b , c$ 可以无限接近0，所以 $0 < b c \leq \frac { 4 } { 3 }$
+
+$S _ { _ { \Delta A B D } } = { \frac { \sqrt { 3 } } { 6 } } b c { \in } { \left| 0 , { \frac { 2 { \sqrt { 3 } } } { 9 } } \right| }$ $\triangle A B D$ 面积 的取 值范 围 为 ${ \Big \vert 0 , \frac { 2 { \sqrt { 3 } } } { 9 } } { \Big \vert } \ldots \ldots 1 5$
+
+18【答案】（1）略； （2） 2 3  15 （3） 33
+
+【解析】（1）如图，设 $F$ 是 $B C$ 的中点，连接 $E F$ ， $C _ { 1 } F$ ，
+
+在三棱台 $A B C - A _ { 1 } B _ { 1 } C _ { 1 }$ 中，因为 $A _ { 1 } B _ { 1 } = \frac 1 2 A B$ ，所以 $A _ { 1 } C _ { 1 } = { \frac { 1 } { 2 } } A C$ ，
+
+且 $A _ { 1 } C _ { 1 } / / A C$ ，因为 $E , F$ 分别是 $A B , B C$ 的中点，所以 $E F / / A C$ ， $E F = { \frac { 1 } { 2 } } A C$ ，
+
+于是可得： $A _ { 1 } C _ { 1 } \overset { / / } { = } E F$ ，所以四边形 $A _ { 1 } E F C _ { 1 }$ 是一个平行四边形，则有 $A _ { 1 } E / / C _ { 1 } F$ ，
+
+又 $A _ { \mathrm { l } } E \neq$ 平面 $B _ { 1 } B C C _ { 1 }$ ， $C _ { 1 } F \subset$ 平面 $B _ { 1 } B C C _ { 1 }$ ，所以 $A _ { \mathrm { l } } E / /$ 平面 $B _ { 1 } B C C _ { 1 }$ ；......5 分
+
+![](images/d120c57468126c2eb45c756d8de0567b8643f757b817d22c234275169c66b785.jpg)
+
+![](images/dcf34e43cb93b1baff679c999ec8130126f90a71fe474b9721b84b8ab652e3ce.jpg)
+
+（2）因为 AB  2 ，又 ABCS $A B = 2$ $S _ { \Delta A B C } = \frac { 1 } { 2 } \times 2 \times 2 \times \sin 6 0 ^ { \circ } = \sqrt { 3 }$ 为定值，所以当平面 $P A B \perp$ 平面 $A B C$ 时，该三棱锥的体积最大.因为 $A _ { 1 } B _ { 1 } { \stackrel { / / } { = } } { \frac { 1 } { 2 } } A B$ 1 1/ / 2B  A ，所以 $A _ { 1 } , B _ { 1 }$ 分别是 $P A , P B$ 的中点，因此 $\Delta P A B$ 是边长2的正三角形，
+
+因为 $P E \bot A B$ ，由平面 $P A B \perp$ 平面 $A B C$ 的性质可证得： $P E \perp$ 平面 $A B C$ ，
+
+又 PE  3 ，则VP ABC $P E = \sqrt { 3 }$ $V _ { _ { P - A B C } } = \frac { 1 } { 3 } P E \cdot S _ { _ { A M B C } } = \frac { \sqrt { 3 } } { 3 } \times \sqrt { 3 } = 1 ;$ PE ABCS
+
+则三棱锥P-ABC的体积最大值为1......10分
+
+（3）如图， $P A = A C = P B = B C = 2$ ， $C _ { 1 }$ 是 $P C$ 的中点，则 $A C _ { 1 } \bot P C$ ，$B C _ { 1 } \bot P C$ ，所以二面角 $A - C C _ { 1 } - B$ 的平面角是 $\angle A C _ { 1 } B$ ，又 $A C _ { 1 } = B C _ { 1 }$ ，
+
+由余弦定理得： 2 2 21 11cos AC BC ABAC B    $\mathrm { { z o s } } \angle A C _ { 1 } B = \frac { A C _ { 1 } ^ { 2 } + B C _ { 1 } ^ { 2 } - A B ^ { 2 } } { 2 A C _ { 1 } \cdot B C _ { 1 } } = \frac { 1 } { 3 }$ 解 得 $A C _ { 1 } = B C _ { 1 } = \sqrt { 3 }$ ，
+
+作 $B O \bot A C _ { 1 }$ 于点 $O$ ，连接 $P O$ ，因为 $P C \perp$ 平面 $A C _ { 1 } B$ ，所以 $P C \perp B O$ ，又 $A C _ { 1 } \cap P C = C _ { 1 }$ ，
+
+$A C _ { 1 } , P C \subset$ 平面 $A C C _ { 1 } A _ { 1 }$ ，所以 $B O \perp$ 平面 $A C C _ { 1 } A _ { 1 }$ ，则 $\angle B P O$ 为直线 $B B _ { 1 }$ 与平面 $A C C _ { 1 } A _ { 1 }$ 所成角，
+
+由 PB  2 ， 2 2 2 6BO   $P B = 2$ $B O = { \frac { 2 \times { \sqrt { 2 } } } { \sqrt { 3 } } } = { \frac { 2 { \sqrt { 6 } } } { 3 } }$ ，则 $P O = { \sqrt { P B ^ { 2 } - B O ^ { 2 } } } = { \frac { 2 { \sqrt { 3 } } } { 3 } }$ ，从 而 cos $\angle B P O = \frac { P O } { P B } = \frac { \sqrt { 3 } } { 3 }$
+
+所以直线 $B B _ { 1 }$ 与平面 $A C C _ { 1 } A _ { 1 }$ 所成线面角的余弦值为 ${ \frac { \sqrt { 3 } } { 3 } } . \dots \dots 1 7$ 分
+
+19【答案】（1） ${ \frac { \pi } { 2 } } R ^ { 2 }$ ； （2）略 （3） $\frac { 5 3 } { 7 8 } \pi R ^ { 2 }$ 3 2
+
+【解析】（1）若平面 $O A B , O A C , O B C$ 两两垂直，有 $\alpha = \beta = \gamma = \frac { \pi } { 2 }$
+
+，所以球面三角形 ABC 面积为 $S _ { \tt E \breve { K } \tt E \breve { M } B C } = ( \alpha + \beta + \gamma - \pi ) R ^ { 2 } = \frac { \pi } { 2 } R ^ { 2 }$
+
+2 2 2 22 cosAC R R R   （2） $\textcircled{1}$ 证明：由余弦定理有： 2 2 2 22 cosBC R R R    ，且 $A C ^ { 2 } + B C ^ { 2 } = A B ^ { 2 }$ ，消掉 $R ^ { 2 }$ ，2 2 2 2 32 cosAB R R R   
+
+有 $\cos \theta _ { 1 } + \cos \theta _ { 2 } - \cos \theta _ { 3 } = 1$ 。......7 分
+
+$\textcircled{2}$ 由 AD 是球的直径，则 $A B \perp B D$ ， $A C \bot C D$ ，又 $A C \bot B C$ ，所以 $A C \bot$ 面 $B C D$ ，则 $A C \perp B D$
+
+所以可证得 $B D \perp$ 平面 $A B C$ ，由直线 DA，DC 与平面 ABC 所成的角分别为 ${ \frac { \pi } { 4 } } , { \frac { \pi } { 3 } }$ ，
+
+所以 $\angle D A B = \frac { \pi } { 4 } , \angle D C B = \frac { \pi } { 3 }$ =3， 不妨先令 $R = \sqrt { 3 }$ ，则 $A D = 2 { \sqrt { 3 } } , A B = B D = { \sqrt { 6 } } , B C = { \sqrt { 2 } } , A C = 2$
+
+由 $A C \bot B C$ ， $A C \perp B D$ ， $B C \perp B D$ ，以 C 为坐标原点，以 CB，CA 所在直线为 $\mathbf { X }$ ，y 轴，过点 C 作 BD 的平行线为 $\mathbf { Z }$ 轴，建立如图空间直角坐标系，设 $B E = t , t \in ( 0 , \sqrt { 6 } ]$ ，则 $C ( 0 , 0 , 0 ) , A ( 0 , 2 , 0 ) , B ( \sqrt { 2 } , 0 , 0 ) , D ( \sqrt { 2 } , 0 , \sqrt { 6 } ) ,$ ，
+
+则 $S ( 0 , 1 , 0 ) , T ( \frac { \sqrt { 2 } } { 2 } , 0 , 0 ) , E ( \sqrt { 2 } , 0 , t ) , O ( \frac { \sqrt { 2 } } { 2 } , 1 , \frac { \sqrt { 6 } } { 2 } )  ,$
+
+![](images/8f5f69136f3e3bfe8e442d4e0fe43fd7dce8781076b1a1c775fa2feef31dfed2.jpg)
+
+![](images/6caa5d28807fad9cb0a04f4c52fde99e05213516c7de1dc151d7f40c99cc5385.jpg)
+
+设平面 OBC 法向量 $\stackrel { \longrightarrow } { m } = ( x , y , z )$ ， 2( 2, 0, 0), ( ,CB  CO   1 6  , )2 ，则 $\left\{ \begin{array} { l l } { \sqrt { 2 } x = 0 } \\ { \sqrt { 2 } x } \\ { \displaystyle \frac { \sqrt { 2 } x } { 2 } + y + \frac { \sqrt { 6 } z } { 2 } = 0 } \end{array} \right. ,$
+
+取 $z = - 2$ ，则 $y = \sqrt { 6 } , x = 0$ ，所以 $\stackrel { \longrightarrow } { m } = ( 0 , \sqrt { 6 } , - 2 )$ ，............10 分
+
+设平面 EST 法向量 $\stackrel {  } { n } = ( x , y , z )$ ， $\overrightarrow { S T } = ( \frac { \sqrt { 2 } } { 2 } , - 1 , 0 ) , \overrightarrow { T E } = ( \frac { \sqrt { 2 } } { 2 } , 0 , t )$ 2  , 0, )t ，则  $\left\{ \begin{array} { l l } { \displaystyle { \frac { \sqrt { 2 } } { 2 } } x - y = 0 } \\ { \displaystyle { \frac { \sqrt { 2 } x } { 2 } } + t z = 0 } \end{array} \right. ,$ 0x y 
+
+取 $x = \sqrt { 2 } t$ ，则 $y = t , z = - 1$ ，所以 $\stackrel {  } { n } = ( \sqrt { 2 } t , t , - 1 )$ ，............12 分
+
+要使 $\sin \theta$ 取最小值时，则 $| \cos \theta |$ 取最大值，
+
+所以 $, | \cos \theta | = \frac { | \stackrel {  } { m } \cdot \stackrel {  } { n } | } { | \stackrel {  } { m } | | \stackrel {  } { n } | } = \frac { | \sqrt { 6 } t + 2 | } { \sqrt { 1 0 } \cdot \sqrt { 3 t ^ { 2 } + 1 } } = \frac { 1 } { \sqrt { 5 } } \times \frac { \sqrt { 3 } t + \sqrt { 2 } } { \sqrt { 3 t ^ { 2 } + 1 } } = \frac { 1 } { \sqrt { 5 } } \times \sqrt { \frac { ( \sqrt { 3 } t + \sqrt { 2 } ) ^ { 2 } } { 3 t ^ { 2 } + 1 } } = \frac { 1 } { \sqrt { 5 } } \times \sqrt { 1 + \frac { 2 \sqrt { 6 } t + 1 } { 3 t ^ { 2 } + 1 } } \ ,$ 
+
+令 m  2 6t 1,m(1,13] ，则 t $m = 2 \sqrt { 6 } t + 1 , m \in ( 1 , 1 3 ]$ $t = \frac { m - 1 } { 2 \sqrt { 6 } }$ 12 6m  ， 22 ( 1)3 8mt  ，有 $3 t ^ { 2 } = \frac { ( m - 1 ) ^ { 2 } } { 8 }$
+
+$\frac { 2 \sqrt { 6 } t + 1 } { 3 t ^ { 2 } + 1 } = \frac { m } { \frac { \left( m - 1 \right) ^ { 2 } } { 8 } + 1 } = \frac { 8 m } { m ^ { 2 } - 2 m + 9 } = \frac { 8 } { m + \displaystyle \frac { 9 } { m } - 2 } \leq \frac { 8 } { 6 - 2 } = 2 ,$ 2,  当且仅当 $m = 3 , t = \frac { 1 } { \sqrt { 6 } }$ 取等）.
+
+则 $| \cos \theta |$ 取最大值 $\frac { \sqrt { 3 } } { \sqrt { 5 } }$ ， 2sin 1 cos $\sin \theta = { \sqrt { 1 - \cos ^ { 2 } \theta } } = { \frac { \sqrt { 1 0 } } { 5 } }$ 为最小值...14分
+
+此时点 $E ( \sqrt { 2 } , 0 , \frac { 1 } { \sqrt { 6 } } )$ ，平面 AEC 中 $\overrightarrow { C E } = ( \sqrt { 2 } , 0 , \frac { 1 } { \sqrt { 6 } } ) , \overrightarrow { C A } = ( 0 , 2 , 0 )$ ，法 向量 $\vec { k } = ( 1 , 0 , - 2 \sqrt { 3 } )$
+
+球心 O 到平面 AEC 距离为 $d = \frac { \mid \overline { { { A O \cdot \vec { k } } } } \mid } { \mid \vec { k } \mid } = \frac { 5 } { \sqrt { 2 6 } }$ ，设平面 AEC 截球 O 圆半径为 $r$ ， $r ^ { ^ { 2 } } = R ^ { 2 } - d ^ { 2 } = { \frac { 5 3 } { 2 6 } }$ 26 ，
+
+所以截面圆面积为 $\pi r ^ { ^ { 2 } } = \frac { 5 3 } { 2 6 } \pi = \frac { 5 3 } { 7 8 } \pi R ^ { 2 }$ 3 2 ..17分
