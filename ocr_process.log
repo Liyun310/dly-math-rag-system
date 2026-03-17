@@ -1,0 +1,21 @@
+[2026-03-16 11:42:05] INFO 推理设备: mps (TORCH_DEVICE=mps)
+[2026-03-16 11:45:40] INFO Marker 初始化完成: force_ocr=True, languages=zh,en, batch_multiplier=1
+[2026-03-16 11:45:40] INFO 开始批处理，共 2 份 PDF
+[2026-03-16 11:55:41] INFO 成功: bashu_ans.pdf -> bashu_ans.md | images=8 | 601.07s
+[2026-03-16 11:58:30] INFO 成功: bashu_text.pdf -> bashu_text.md | images=10 | 169.70s
+[2026-03-16 11:58:31] INFO 批处理完成: total=2 success=2 failed=0 elapsed=986.73s
+[2026-03-16 14:54:27] INFO 推理设备: mps (TORCH_DEVICE=mps)
+[2026-03-16 14:54:33] INFO Marker 初始化完成: force_ocr=True, languages=zh,en, batch_multiplier=1
+[2026-03-16 14:54:33] INFO 开始批处理，共 2 份 PDF
+[2026-03-16 15:03:46] INFO 成功: bashu_ans.pdf -> bashu_ans.md | images=8 | 553.03s
+[2026-03-16 15:06:27] INFO 成功: bashu_text.pdf -> bashu_text.md | images=10 | 160.19s
+[2026-03-16 15:06:27] INFO 批处理完成: total=2 success=2 failed=0 elapsed=719.94s
+[2026-03-16 15:36:16] INFO 推理设备: mps (TORCH_DEVICE=mps)
+[2026-03-16 15:36:22] INFO Marker 初始化完成: force_ocr=True, batch_multiplier=2, disable_table_recognition=True, disable_internal_tqdm=True
+[2026-03-16 15:36:22] INFO 开始批处理，共 2 份 PDF
+[2026-03-16 15:37:30] INFO 推理设备: mps (TORCH_DEVICE=mps)
+[2026-03-16 15:37:36] INFO Marker 初始化完成: force_ocr=True, batch_multiplier=2, disable_table_recognition=True, disable_internal_tqdm=True
+[2026-03-16 15:37:36] INFO 开始批处理，共 2 份 PDF
+[2026-03-16 15:50:19] INFO 推理设备: mps (TORCH_DEVICE=mps)
+[2026-03-16 15:50:24] INFO Marker 初始化完成: force_ocr=True, batch_multiplier=2, disable_table_recognition=True, disable_internal_tqdm=True
+[2026-03-16 15:50:24] INFO 开始批处理，共 2 份 PDF
